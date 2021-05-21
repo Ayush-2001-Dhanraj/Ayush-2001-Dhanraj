@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayush-2001-Dhanraj
+- 👋 Hi, I’m Ayush Dhanraj
 - 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on anything new and interesting
