@@ -4,7 +4,7 @@ _Exploring the vast galaxies of code, one commit at a time._
 
 ## Who Am I? 🌟
 
-I'm Ayush Dhanraj, a digital voyager with a trail of web development successes behind me. Today, I've set my sights on new horizons:
+I'm Ayush Dhanraj, a digital voyager who has embarked on various web development adventures. Today, I'm setting my sights on new horizons:
 
 - 📱 **Mobile Maverick**: Crafting sleek and intuitive mobile apps that resonate with users.
 - 🎮 **Game Guru**: Venturing into the enchanting realms of game development.
