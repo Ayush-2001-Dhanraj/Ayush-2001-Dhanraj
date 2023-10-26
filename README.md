@@ -24,6 +24,8 @@ I'm always on the lookout for fellow explorers who want to co-pilot these journe
 
 Join me as we script the future, shape virtual worlds, and breathe life into AI. Together, we'll craft our own digital saga! 🚁
 
+[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=Ayush-2001-Dhanraj)](https://github.com/Ayush-2001-Dhanraj/github-readme-stats)
+
 
 <!---
 Ayush-2001-Dhanraj/Ayush-2001-Dhanraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
